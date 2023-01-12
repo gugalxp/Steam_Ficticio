@@ -1,32 +1,50 @@
-# <strong> Olá! Eu sou o Gustavo</strong> 🖐️</br> <strong style=" font-size: 16px;"><Formado em Ciência da Computação></strong>
+<h1 align="center">
+  Steam Fake
+</h1>
 
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/emanuelhenrique-dev/Steam_FIc" />
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/emanuelhenrique-dev/Steam_FIc" />
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/emanuelhenrique-dev/Steam_FIc" />
 
+  <a href="https://github.com/leovargasdev/sonoplastia-vai-dar-namoro/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/emanuelhenrique-dev/Steam_FIc" />
+  </a>
+  
+  <a href="https://github.com/leovargasdev/sonoplastia-vai-dar-namoro/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/emanuelhenrique-dev/Steam_FIc" />
+  </a>
+</p>
 
+<p align="center">
+  <img src=".github/Desktop.png" width="100%" />
+</p>
 
-## ```Principais Skills``` 👇
-<div align="left">
+## 💻 Projeto
+Projeto feito com proposito de pôr a prova as habilidades aprendidas nos últimos meses, criando um site fictício baseado na steam com seu design básico vindo de
+uns dos desafios criados no [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO?node-id=80254%3A868) pelo [**Iuri Silva**](https://www.instagram.com/iuricode/).
 
- - [x] ReactJS
- - [x] NodeJS
- - [x] ORM Prisma
- - [x] PostgreSQL
- - [x] Bekeeper Studio
-   
-</div>
+[Site aqui](http://steam-fic.vercel.app/)
 
-___
-<br/>
+## 🚀 Tecnologias
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,figma)](https://skills.thijs.gg) <span fontSize="160px" > </span>
 
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513996369053&text=Ol%C3%A1%2C%20gostaria%20de%20te%20contratar..%20Entre%20em%20contato%20comigo!)
-<a href="https://www.linkedin.com/in/gustavo-arruda-2a664a1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+- HTML
+- CSS
+- Javascript
 
-![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=radical)
+## 📔 Conhecimentos fortalecidos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalxp&layout=compact)]()
+- [x] Uso básico do figma .
+- [x] Tokens no projeto`.
+- [x] css e responsividade.
+- [x] Javascript.
+- [x] Criação de itens em listas.
+- [x] Tecnicas de animação em css.
 
-___
-
-### <strong><div align="center">Apaixonado por tecnologia, por programação e por desafios!</div>
-   <img align="center" alt="mysql" style="margin: 5px" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
-</strong>
+<p align="center" gap="20px">
+  <img src=".github/mobile1.png" width="30%" />
+  <img src=".github/mobile2.png" width="30%" />
+</p>

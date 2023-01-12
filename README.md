@@ -1,8 +1,21 @@
-# <strong style="color:#1e1842;"> Olá! Eu sou o Gustavo 🖐️
+# <strong> Olá! Eu sou o Gustavo</strong> 🖐️</br> <strong style=" font-size: 16px;"><Formado em Ciência da Computação></strong>
 
-#### <strong style="color:yellow;">Formado em Ciência da Computação.</strong>
- </strong>
 
+
+
+## ```Principais Skills``` 👇
+<div align="left">
+
+ - [x] ReactJS
+ - [x] NodeJS
+ - [x] ORM Prisma
+ - [x] PostgreSQL
+ - [x] Bekeeper Studio
+   
+</div>
+
+___
+<br/>
 
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513996369053&text=Ol%C3%A1%2C%20gostaria%20de%20te%20contratar..%20Entre%20em%20contato%20comigo!)
 <a href="https://www.linkedin.com/in/gustavo-arruda-2a664a1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -11,18 +24,6 @@
 ![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalxp&layout=compact)]()
-
-# Principais Skills 👇
-<div align="left">
-
- - [x] ReactJS
- - [x] NodeJS
- - [x] ORM Prisma
- - [x] PostgreSQL
- - [x] Bekeeper Studio
- 
-   
-</div><br/>
 
 ___
 
